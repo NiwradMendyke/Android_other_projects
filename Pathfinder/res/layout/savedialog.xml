@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="130dp"
+              android:orientation="vertical"
+              android:weightSum="1"
+              android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/txt_dia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:text="Enter name for file"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:padding="15dp"
+        android:layout_gravity="center"
+        android:id="@+id/name_input"/>
+
+
+</LinearLayout>

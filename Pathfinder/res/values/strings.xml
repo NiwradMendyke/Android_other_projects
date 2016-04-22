@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pathfinder</string>
+    <string name="save_button">Save</string>
+    <string name="open_button">Open</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_button">Delete</string>
+    <string name="which_to_delete">Which Routes to Delete</string>
+</resources>

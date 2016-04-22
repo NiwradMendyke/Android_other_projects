@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Demo</string>
+    <string name="text">Press the button</string>
+    <string name="longitude">Longitude</string>
+</resources>
